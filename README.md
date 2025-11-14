@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am https://github.com/PriyanshuBiswas-official currently studying Computer Science at universtiy. My interest lies in Machine Learning, Data Science, Python or other cool things in tech.
 <!--
 **PriyanshuBiswas-official/PriyanshuBiswas-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
