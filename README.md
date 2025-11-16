@@ -5,8 +5,8 @@
 I am [**Priyanshu Biswas**](https://github.com/PriyanshuBiswas-official), currently studying Computer Science at universtiy. My interest lies in Machine Learning, Data Science, Python or other cool things in tech.
 
 ## 🔭 Currently working on:
-- Building Python and Machine Learning projects.
-- Practicing data analysis on Kaggle.
+- Building Python and Machine Learning projects using [sckit-learn](https://scikit-learn.org/stable/).
+- Practicing data analysis on [Kaggle](https://www.kaggle.com/).
 - Creating tech content for my YouTube channel
   - Writing scripts & planning videos.
   - Recording and editing.
