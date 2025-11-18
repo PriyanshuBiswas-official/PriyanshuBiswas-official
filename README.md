@@ -7,7 +7,7 @@ I am [**Priyanshu Biswas**](https://github.com/PriyanshuBiswas-official), curren
 ## 🔭 Currently working on:
 - Building Python and Machine Learning projects using [sckit-learn](https://scikit-learn.org/stable/).
 - Practicing data analysis on [Kaggle](https://www.kaggle.com/).
-- Creating tech content for my YouTube channel
+- Creating tech content for my [YouTube channel](https://www.youtube.com/@Priiyanshhu)
   - Writing scripts & planning videos.
   - Recording and editing.
 - Improving Data Structures & Algorithms
